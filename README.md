@@ -1,1 +1,1 @@
-# Data-Scince
+# Data-Science
